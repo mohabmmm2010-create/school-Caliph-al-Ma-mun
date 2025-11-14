@@ -1,0 +1,17 @@
+<svg width="60" height="70" viewBox="0 0 60 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="30" cy="35" r="28" fill="url(#gradient)"/>
+    
+    <!-- Letter M -->
+    <path d="M20 25V45M20 25L25 35M20 25L30 20M30 20L35 25M30 20V45M35 25V45M35 25L40 35" stroke="white" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Number 41 -->
+    <text x="45" y="50" fill="white" font-family="Arial" font-size="14" font-weight="bold">41</text>
+    
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#667eea"/>
+            <stop offset="100%" stop-color="#764ba2"/>
+        </linearGradient>
+    </defs>
+</svg>

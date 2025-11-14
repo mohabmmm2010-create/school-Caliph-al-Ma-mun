@@ -1,0 +1,14 @@
+<svg width="70" height="70" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- M Shape -->
+    <path d="M15 20V50M15 20L25 35M15 20L35 10L40 15M40 15V50M40 15L50 35" stroke="url(#gradient)" stroke-width="4" stroke-linecap="round"/>
+    
+    <!-- 41 Text -->
+    <text x="50" y="60" fill="url(#gradient)" font-family="Arial" font-size="16" font-weight="bold">41</text>
+    
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#667eea"/>
+            <stop offset="100%" stop-color="#f093fb"/>
+        </linearGradient>
+    </defs>
+</svg>
